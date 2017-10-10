@@ -1,1 +1,1 @@
-Just remember that you cannot undo this.
+Rappelez-vous juste que vous ne pouvez pas annuler cela.

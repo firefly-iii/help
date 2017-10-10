@@ -1,14 +1,14 @@
-This shows you a list of all your piggy banks. Piggy banks can be used to divide the money in an asset account into several "piggy banks". This makes it easy to save money.
+Cela vous montre une liste de toutes vos tirelires. Les tirelires peuvent être utilisées pour diviser l'argent d'un compte d'actif en plusieurs "tirelires". Cela permet d'économiser de l'argent plus facilement.
 
-For example, you could have two piggy banks, both linked to your savings account:
+Par exemple, vous pourriez avoir deux tirelires, toutes deux liées à votre compte d'épargne:
 
-1. One for "a new TV" with a target amount of 500,-
-2. Another for "a new PC" with a target amount of 1000,-.
+1. Un pour "un nouveau téléviseur" avec un objectif de 500, -
+2. Un autre pour "un nouveau PC" avec un montant cible de 1000, -.
 
-Assuming you have 900,- in your savings account, you can divide this money between both piggy banks as you see fit:
+En supposant que vous avez 900, - dans votre compte d'épargne, vous pouvez diviser cet argent entre les deux tirelires comme bon vous semble:
 
-1. 500,- for the TV and 400,- for the PC.
-2. 450,- for the TV and 450,- for the PC.
-3. 500,- for the TV and nothing for the new PC, leaving 400,- to be divided.
+1. 500, - pour le téléviseur et 400, - pour le PC.
+2. 450, - pour le téléviseur et 450, - pour le PC.
+3. 500, - pour le téléviseur et rien pour le nouveau PC, laissant 400, - à diviser.
 
-This can help you organise your savings.
+Cela peut vous aider à organiser vos économies.

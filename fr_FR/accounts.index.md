@@ -1,17 +1,17 @@
-This page shows the accounts you have. It lists the current balance and the latest date of activity.
+Cette page montre les comptes que vous avez. Il répertorie le solde actuel et la dernière date d'activité.
 
-There's something weird with expense accounts. Even though you pay into expense accounts, they tend to have a positive saldo. Likewise, revenue accounts have a negative balance. At first glance this should be reversed. But remember that when you pay McDonalds, they *earn* money. Likewise, when your employer pays you, they *lose* money. For you personally it's the exact opposite but this list is from their perspective. A store makes money off you, an employer loses money to you.
+Il y a quelque chose de bizarre avec les comptes de dépenses. Même si vous payez dans les comptes de dépenses, ils ont tendance à avoir un solde positif. De même, les comptes de revenus ont un solde négatif. À première vue, cela devrait être inversé. Mais n'oubliez pas que lorsque vous payez McDonalds, ils *gagnent * de l'argent. De même, lorsque votre employeur vous paie, ils * perdent *de l'argent. Pour vous, personnellement, c'est exactement le contraire, mais cette liste est de leur point de vue. Un magasin gagne de l'argent grâce à vous, un employeur en perd à cause de vous.
 
-There are three types of accounts.
+Il existe trois types de comptes.
 
-**Asset accounts**
+**Comptes d’actif**
 
-Accounts that hold your money: your bank accounts.
+Comptes qui tiennent votre argent: vos comptes bancaires.
 
-**Expense accounts**
+**Comptes de dépenses**
 
-These represent the people you pay. Shops are likely.
+Ceux-ci représentent les personnes que vous payez. Des magasins le plus souvent.
 
-**Revenue accounts**
+**Comptes de recettes**
 
-These represent the people that pay you. Your job for example.
+Ceux-ci représentent les personnes qui vous paient. Votre travail, par exemple.

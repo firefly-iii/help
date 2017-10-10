@@ -1,1 +1,1 @@
-This page shows you what the exporter is doing. If it takes a long time, it will automatically time-out and give an error.
+Cette page vous montre ce que l'exportateur fait. Si cela prend beaucoup de temps, il sera automatiquement expiré et émettra une erreur.

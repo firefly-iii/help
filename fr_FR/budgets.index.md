@@ -1,9 +1,9 @@
-On this page, you can set budgets. Each budget is valid for the current time period only.
+Sur cette page, vous pouvez définir des budgets. Chaque budget est valable uniquement pour la période actuelle.
 
-First, set the amount that is available to you by clicking the amount next to "*Available in ~~~*". By default, this is € 1000,-.
+Tout d'abord, définissez le montant qui vous est disponible en cliquant sur le montant à côté de "* Disponible dans ~~~ * "Par défaut, il s'agit de € 1000, -.
 
-Then, create some budgets using the "New Budget" button. All you need for a budget is a name. Once you've created some budgets you can set the amount of the budget using the input below the name. If you have already spent money in a budget, this will be shown as well.
+Ensuite, créez des budgets en utilisant le bouton "Nouveau budget". Tout ce dont vous avez besoin pour un budget est un nom. Une fois que vous avez créé certains budgets, vous pouvez définir le montant du budget en utilisant l'entrée sous le nom. Si vous avez déjà dépensé de l'argent dans un budget, cela sera également affiché.
 
-Both the amount available and the amount budgeted are for a specific period: if you go back a month or forward a month, both of these amounts are reset. Firefly will remember what you've set the amounts to of course, but every period has their own amounts.
+Le montant disponible et le montant budgété sont pour une période spécifique: si vous retournez un mois ou avancez un mois, ces deux montants sont réinitialisés. Firefly se souviendra de ce que vous avez défini les montants, bien sûr, mais chaque période a ses propres montants.
 
-In your preferences, you can change this range to be weekly, or even yearly.
+Dans vos préférences, vous pouvez modifier cette plage pour qu'elle soit hebdomadaire ou même annuelle.

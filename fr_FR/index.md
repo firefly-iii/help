@@ -1,5 +1,5 @@
-The home page of Firefly III gives you a quick overview of your current financial situation.
+La page d'accueil de Firefly III vous donne un aperçu rapide de votre situation financière actuelle.
 
-* The boxes on the top of the page show you how much money has been flowing in and out.
-* Below that are several charts that show the status of your asset accounts, budgets, categories and expense accounts respectively. Optionally, a chart showing your revenue accounts can be enabled as well.
-* Finally on the right, you will find the last 10 transactions of each asset account.
+* Les cases en haut de la page vous montrent combien d'argent entre et sort.
+* Vous trouverez en-dessous plusieurs graphiques qui indiquent l'état de vos comptes d'actifs, budgets, catégories et comptes de dépenses. En option, un graphique affichant vos comptes de revenus peut également être activé.
+* Enfin, à droite, vous trouverez les 10 dernières transactions de chaque compte d'actif.

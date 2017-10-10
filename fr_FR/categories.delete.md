@@ -1,3 +1,3 @@
-Any transactions linked to your category will be saved.
+Toutes les transactions liées à votre catégorie seront sauvegardées.
 
-Remember that any transactions in this category will be cleared of their category, and instead will get listed under "Transactions without a category".
+Rappelez-vous que toutes les transactions de cette catégorie n'aurons plus de catégorie et seront inscrites sous «Transactions sans catégorie».

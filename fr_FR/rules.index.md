@@ -1,11 +1,11 @@
-Firefly III supports "rules": Small building blocks of actions that are triggered when a transaction is created or updated.
+Firefly III prend en charge les «règles»: Petits blocs de construction d'actions déclenchés lorsqu'une transaction est créée ou mise à jour.
 
-If your transaction has certain properties (called "triggers") Firefly will execute the "actions". Combined, you can make Firefly respond in a certain way to transactions.
+Si votre transaction possède certaines propriétés (appelées «déclencheurs»), Firefly exécutera les «actions». Combinées, vous pouvez faire en sorte que Firefly réagisse d'une certaine manière aux transactions.
 
-On this page you see your rule groups, and the rules they contain. If you have no rules or rule groups, Firefly will create a default rule and rule group, as an example.
+Sur cette page, vous voyez vos groupes de règles et les règles qu'ils contiennent. Si vous n'avez pas de règles ou de groupes de règles, Firefly créera une règle par défaut et un groupe de règles, pour exemple.
 
-You can sort the rule triggers, and the rule actions. If you create a rule, the help page will show you what's possible.
+Vous pouvez trier les déclencheurs de règles et les actions de règle. Si vous créez une règle, la page d'aide vous montrera ce qui est possible.
 
-Each rule and each rule group can be executed on your transactions to see if they work and how they work.
+Chaque règle et chaque groupe de règles peuvent être exécutées sur vos transactions pour voir si elles fonctionnent et comment elles fonctionnent.
 
-To see how a rule works, press **New rule**.
+Pour voir comment fonctionne une règle, appuyez sur ** Nouvelle règle ** .

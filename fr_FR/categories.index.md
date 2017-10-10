@@ -1,1 +1,1 @@
-This shows you a list of all the categories in your system and when it has last been used. You can create new categories both manually or when entering a new transaction.
+Cela vous montre une liste de toutes les catégories de votre système et quand elles ont été utilisées pour la dernière fois. Vous pouvez créer de nouvelles catégories manuellement ou lors de la saisie d'une nouvelle transaction.

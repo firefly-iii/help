@@ -1,5 +1,5 @@
-The export page allows you to export basic information about your transactions so you can import it in another system later. You can choose to export the original, unencrypted uploads and old files you imported in the past.
+La page d'exportation vous permet d'exporter des informations de base sur vos transactions afin que vous puissiez l'importer ultérieurement dans un autre système. Vous pouvez choisir d'exporter les téléchargements originaux, non chiffrés et les anciens fichiers que vous avez importés dans le passé.
 
-The export will contain all basic fields and amounts, some meta-information and currency data.
+L'export contiendra tous les champs et montants de base, certaines méta-informations et les données de devise.
 
-Remember that such an export is NOT enough to restore your Firefly III installation! The data exported does not include budgeted amounts, links to bills or other meta data. If you wish to make a backup, please just export the database and your attachments.
+Rappelez-vous qu'un tel export n'est PAS suffisante pour restaurer votre installation de Firefly III! Les données exportées n'incluent pas les montants budgétisés, les liens vers des factures ou d'autres méta-données. Si vous souhaitez effectuer une sauvegarde, veuillez simplement exporter la base de données et vos pièces jointes.

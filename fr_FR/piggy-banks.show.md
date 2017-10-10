@@ -1,3 +1,3 @@
-This page shows you a piggy bank, its current state and if available, a history of what has changed.
+Cette page vous montre une tirelire, son état actuel et si disponible, un historique de ce qui a changé.
 
-So if you have been saving for a while now, this page shows you how fast (or slow) it has been going.
+Donc, si vous avez économisé depuis un certain temps maintenant, cette page vous montre à quelle vitesse (ou lenteur) cela se passe.

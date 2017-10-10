@@ -1,1 +1,1 @@
-This view shows you the transactions related to the bill. You can opt to rescan all transactions to find missing entries.
+Cette vue vous montre les transactions liées à la facture. Vous pouvez choisir de scanner à nouveau toutes les transactions pour trouver les entrées manquantes.

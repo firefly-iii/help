@@ -1,1 +1,1 @@
-When you delete a budget, the linked transactions will not be deleted. However, any financial history (amounts etc) will be deleted as well.
+Lorsque vous supprimez un budget, les transactions liées ne seront pas supprimées. Cependant, tous les historiques financiers (montants, etc.) seront également supprimés.

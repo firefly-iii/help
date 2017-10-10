@@ -1,5 +1,5 @@
-This report shows you the influence the selected tag(s) have had on the selected asset accounts.
+Ce rapport vous montre l'influence du ou des tags sélectionnés sur les comptes d'actifs sélectionnés.
 
-It starts with some charts showing you how the money in the tag(s) has flowed around. Then, a complicated "income and expenses" chart shows you what this looked like over time.
+Cela commence par des graphiques vous montrant comment l'argent dans le ou les tags a circulé. Ensuite, un tableau compliqué «revenus et dépenses» vous montre à quoi cela ressemblait au fil du temps.
 
-Finally, some statistics about the reporting period are presented. All the lists are sortable for your convenience.
+Enfin, certaines statistiques sur la période de déclaration sont présentées. Toutes les listes sont triables pour s'adapter à votre besoin.

@@ -1,1 +1,1 @@
-You can only delete a currency when no transactions use it. Most currencies can be safely deleted when you do not use them.
+Vous ne pouvez supprimer une devise que si aucune transaction ne l'utilise. La plupart des devises peuvent être supprimées en toute sécurité lorsque vous ne les utilisez pas.

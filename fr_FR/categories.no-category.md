@@ -1,1 +1,1 @@
-These transactions have no category attached to them.
+Ces transactions ne comportent aucune catégorie.

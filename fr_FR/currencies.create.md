@@ -1,1 +1,1 @@
-New currencies can always be added to Firefly III if yours is not present by default. Please make sure the currency code is compliant with ISO 4217.
+De nouvelles devises peuvent toujours être ajoutées à Firefly III si la vôtre n'est pas présente par défaut. Assurez-vous que le code de la devise est conforme à ISO 4217.

@@ -1,1 +1,1 @@
-The page for individual users shows the same content as the list view does, together with some amusing statistics about the stuff the user has created.
+La page pour les utilisateurs individuels affiche le même contenu que la vue en liste, ainsi que des statistiques amusantes sur les éléments créés par l'utilisateur.

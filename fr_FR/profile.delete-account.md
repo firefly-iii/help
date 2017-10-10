@@ -1,3 +1,3 @@
-Use this page to delete your account.
+Utilisez cette page pour supprimer votre compte.
 
-There is no undelete. It will all be gone.
+Il n'y a pas de restauration. Tout sera supprimé.

@@ -1,1 +1,1 @@
-A category can be used to group expenses and keep an eye on your finances. This page allows you to create a new category.
+Une catégorie peut être utilisée pour regrouper les dépenses et surveiller vos finances. Cette page vous permet de créer une nouvelle catégorie.

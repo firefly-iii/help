@@ -1,1 +1,1 @@
-This page shows you your profile page and your user ID, which is useful when importing data using the command line.
+Cette page affiche votre page de profil et votre ID utilisateur, ce qui est utile lors de l'importation de données à l'aide de la ligne de commande.

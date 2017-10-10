@@ -1,0 +1,1 @@
+Un groupe de règles n'est rien de plus que le conteneur de plusieurs règles. Il peut avoir un nom et une description.

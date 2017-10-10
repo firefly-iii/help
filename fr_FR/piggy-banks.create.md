@@ -1,3 +1,3 @@
-This page helps you create a piggy bank. Set the target amount and optionally, the target date to match with what it is you wish to save for.
+Cette page vous aide à créer une tirelire. Réglez le montant cible et, éventuellement, la date cible pour correspondre à ce pourquoi vous voulez économiser.
 
-You can use the "notes" field to store extra notes.
+Vous pouvez utiliser le champ "notes" pour stocker des notes supplémentaires.

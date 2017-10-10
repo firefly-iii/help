@@ -1,22 +1,22 @@
-**Expense accounts**
+**Comptes de dépenses**
 
-Only create expense accounts for places where you spend money.
+Créer uniquement des comptes de dépenses pour les endroits où vous dépensez de l'argent.
 
-**Revenue accounts**
+**Comptes de recettes**
 
-Only create revenue accounts for places where you get money from.
+Créer uniquement des comptes de revenus pour les endroits d'où vous recevez de l'argent.
 
-**Asset accounts**
+**Comptes d’actif**
 
-If you're creating an asset account, you should fill in the "opening balance" and the associated date. Very few people start using Firefly and have a 0.00 balance. Instead, they already have some money in their account. Get out your administration, read the current balance of the account you're adding, and fill it in.
+Si vous créez un compte d'actif, vous devriez remplir le «solde d'ouverture» et la date associée. Très peu de gens commencent à utiliser Firefly et ont un solde de 0.00. Au lieu de cela, ils ont déjà un peu d'argent dans leur compte. Prenez votre relevé de compte, lisez le solde actuel du compte que vous ajoutez et remplissez-le.
 
-As for the roles that are available:
+En ce qui concerne les rôles disponibles:
 
-- Using "default asset account" for your own accounts.
-- Use "shared asset account" for household account. Remember that money transfers *to* such accounts count as expenses. Transfers *from* such accounts are treated as deposits (income).
-- Use "savings account" for accounts on which you save money.
-- Use "credit card" for credit cards. You can add some details later.
+- Utilisation de "compte d'actif par défaut" pour vos propres comptes.
+- Utilisez "compte d'actif commun" pour le compte du ménage. Rappelez-vous que les transferts d'argent * à * ces comptes comptent comme des dépenses. Transferts * de * ces comptes sont traités comme des dépôts (revenus).
+- Utilisez "compte d'épargne" pour les comptes sur lesquels vous économisez de l'argent.
+- Utilisez une «carte de crédit» pour les cartes de crédit. Vous pouvez ajouter quelques détails plus tard.
 
-**Virtual balance**
+**Solde virtuel**
 
-Let's say you want to have a minimum balance of $100,- at all times. Enter "-100" and Firefly will treat a balance of $100,- as zero. If you are creating a credit card account, enter the limit of your credit card (for example $1000,-). Firefly will correctly display how far your limit is stretched.
+Admettons que vous voulez avoir un solde minimum de 100 $, en permanence. Entrez "-100" et Firefly traitera un solde de 100 $, - comme zéro. Si vous créez un compte de carte de crédit, entrez la limite de votre carte de crédit (par exemple, 1000 €, -). Firefly affichera correctement jusqu'à quel point votre limite est utilisée.

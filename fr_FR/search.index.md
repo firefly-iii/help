@@ -1,23 +1,23 @@
-La recherche permet de trouver des opérations, comptes, budgets, etc.
+La recherche peut être utilisée pour trouver des transactions, des comptes, des budgets, etc.
 
-Pour affiner votre recherche pour des transactions spécifiques, vous pouvez utiliser les « filtres » ci-dessous. These are limited to transactions and work together: if you search for transactions with a specific date AND of a specific type, both conditions must be met.
+Pour affiner votre recherche de transactions spécifiques, vous pouvez utiliser les "modificateurs" suivants. Ceux-ci sont limités aux transactions et fonctionnent ensemble: si vous recherchez des transactions avec une date spécifique ET d'un type spécifique, les deux conditions doivent être remplies.
 
-* Use `amount:12.34` to find transactions with *exactly* this amount. You must use dots (.) as decimal separator.
-* You can use `amount_less:100.00` and `amount_more:15.02` in the same fashion.
-* Use `amount_less` together with `amount_more` to search for a range of amounts.
-* Use `source:employer` to search for transactions that have a specific source account.
-* Use `destination:walmart` to search for transactions that have a specific destination account.
-* Use `category:groceries` to search for transactions with a specific category.
-* Use `budget:bills` to search for transactions with a specific budget.
-* Use `bill:insurance` to search for transactions tied to a specific bill.
-* Use `type:withdrawal` to search for specific types. Supported: transfer, deposit, withdrawal.
-* Use `on:2017-02-19`, `before:2016-12-10` or `after:2015-08-30` to limit the date range of the transactions returned.
+* Utilisez ` amount:12.34 ` pour trouver des transactions avec * exactement * Cette somme. Vous devez utiliser des points (.) Comme séparateur décimal.
+* Vous pouvez utiliser ` amount_less:100.00 ` et ` amount_more:15.02 ` de la même manière.
+* Utilisez ` amount_less ` ensemble avec ` amount_more ` pour rechercher une plage de montants.
+* Utiliser ` source: employeur ` pour rechercher des transactions qui ont un compte source spécifique.
+* Utilisez ` destination:walmart ` pour rechercher des transactions qui ont un compte de destination spécifique.
+* Utilisez ` categorty:épicerie ` pour rechercher des transactions avec une catégorie spécifique.
+* Utilisez ` budget:factures ` pour rechercher des transactions avec un budget spécifique.
+* Utilisez ` bill:assurance ` pour rechercher des transactions liées à une facture spécifique.
+* Utilisez ` type:retrait ` pour rechercher des types spécifiques. Supporté: transfert, dépôt, retrait.
+* Utilisez ` on:2017-02-19 ` , ` before:2016-12-10 ` ou ` after:2015-08-30 ` pour limiter la plage de dates des transactions renvoyées.
 
-What you *cannot* do with modifiers is the following:
+Ce que vous * ne pouvez pas * faire avec des modificateurs :
 
-* `source:my employer`: you cannot use spaces.
-* `destination:"albert heijn"`: using quotes will not help.
-* `amount:€12,35`: don't use currency denominators, and use the dot as the decimal separator.
-* `on:today` or `before:30/5/17:` the only supported format is `YYYY-MM-DD`. 
+* ` source: mon employeur ` : vous ne pouvez pas utiliser d'espaces.
+* ` destination: "albert heijn" ` : utiliser des guillemets n'aidera pas.
+* ` amount:12,35€ ` : n'utilisez pas les dénominateurs de devise et utilisez le point comme séparateur décimal.
+* ` on:today ` ou ` before:30/5/17: ` le seul format pris en charge est ` AAAA-MM-JJ ` . 
 
-These extensions are on the way.
+Ces extensions sont en cours de développement.

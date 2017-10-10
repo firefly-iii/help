@@ -1,1 +1,1 @@
-Except for the name, you may also set a budget to be "inactive", which removes it from most views and lists.
+Sauf pour le nom, vous pouvez également définir un budget comme "inactif", ce qui le supprime de la plupart des vues et des listes.

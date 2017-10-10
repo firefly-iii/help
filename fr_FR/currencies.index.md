@@ -1,3 +1,3 @@
-These are the currencies your installation currently supports.
+Ce sont les devises que votre installation prend actuellement en charge.
 
-Firefly III is a multi-currency system. You can safely use Dollars and Euros at the same time.
+Firefly III est un système multidevises. Vous pouvez utiliser Dollars et Euros en toute sécurité en même temps.

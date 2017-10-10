@@ -1,3 +1,3 @@
-The configuration options show you some advanced settings for Firefly.
+Les options de configuration vous montrent quelques paramètres avancés pour Firefly.
 
-The user administration allows you to manage the users in your Firefly installation, if more people than just yourself use this installation.
+L'administration de l'utilisateur vous permet de gérer les utilisateurs dans votre installation Firefly, si d'autres personnes que vous-même utilisent cette installation.

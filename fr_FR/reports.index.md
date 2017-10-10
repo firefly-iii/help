@@ -1,25 +1,25 @@
-At the moment, Firefly III offers 5 types of reports. Each report can be bookmarked for easy access. Each report has various options you must set.
+Pour le moment, Firefly III propose 5 types de rapports. Chaque rapport peut être mis en signet pour un accès facile. Chaque rapport a différentes options que vous devez définir.
 
-For ALL reports, you must indicate which asset accounts will be included in the report. If you do not include certain asset accounts, transfers from and to those ignored accounts will count as expenses and income.
+Pour TOUS les rapports, vous devez indiquer quels comptes d'actifs seront inclus dans le rapport. Si vous n'incluez pas certains comptes d'actifs, les transferts de et vers ces comptes ignorés seront considérés comme des dépenses et des revenus.
 
-You must select a date range for each report. There are no limits to the date range you select.
+Vous devez sélectionner une plage de dates pour chaque rapport. Il n'y a pas de limite à la plage de dates que vous sélectionnez.
 
-#### Default financial report
+#### Rapport financier par défaut
 
-This report will give you a global overview of your finances and it is most used to see (both for the past as wel as for the present) your current financial overview. This report has no extra options.
+Ce rapport vous donnera un aperçu global de vos finances et il est le plus utilisé pour voir (à la fois pour le passé et pour le présent) votre aperçu financier actuel. Ce rapport n'a pas d'options supplémentaires.
 
-#### Transaction history overview (audit)
+#### Aperçu de l'historique des transactions (audit)
 
-This report will tell you how you accounts have gotten to their current point. It shows ALL transactions, and ALL available meta data. This can help you track down errors in your finances. Imagine this report as the "Account overview" but on steroids. This report has no extra options.
+Ce rapport vous dira comment vos comptes sont arrivés à leur point actuel. Il affiche TOUTES les transactions et TOUTES les métadonnées disponibles. Cela peut vous aider à repérer les erreurs dans vos finances. Imaginez ce rapport comme "Aperçu du compte" mais dopé. Ce rapport n'a pas d'options supplémentaires.
 
-#### Budget report
+#### Rapport des budgets
 
-This report will tell you what you have spent in the selected budgets, on the selected asset accounts. This means you must select both the relevant asset accounts as well as the relevant budgets.
+Ce rapport vous indiquera ce que vous avez dépensé dans les budgets sélectionnés, sur les comptes d'actifs sélectionnés. Cela signifie que vous devez sélectionner les comptes d'actifs concernés ainsi que les budgets correspondants.
 
-#### Category report
+#### Rapport par catégories
 
-This report will tell you what you have spent and earned in the selected categories, on the selected asset accounts. This means you must select both the relevant asset accounts as well as the relevant categories.
+Ce rapport vous indiquera ce que vous avez dépensé et gagné dans les catégories sélectionnées, sur les comptes d'actifs sélectionnés. Cela signifie que vous devez sélectionner les comptes d'actifs appropriés ainsi que les catégories pertinentes.
 
-#### Tag report
+#### Rapport de tag
 
-This report will tell you what you have spent and earned in the selected tags, on the selected asset accounts. This means you must select both the relevant asset accounts as well as the relevant tags.
+Ce rapport vous indiquera ce que vous avez dépensé et gagné dans les tags sélectionnés, sur les comptes d'actifs sélectionnés. Cela signifie que vous devez sélectionner les comptes d'actifs concernés ainsi que les tags correspondants.

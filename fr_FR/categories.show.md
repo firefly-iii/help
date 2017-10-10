@@ -1,3 +1,3 @@
-This page shows you an overview of what you've spent in the current category.
+Cette page vous présente un aperçu de ce que vous avez dépensé dans la catégorie actuelle.
 
-Since categories may also include deposits (income), the chart can be a little confusing. The blue bar (if present) denotes expenses. The green bar (if present) denotes income. The line combines both.
+Puisque les catégories peuvent également inclure les dépôts (revenu), le tableau peut être un peu déroutant. La barre bleue (si présente) indique les dépenses. La barre verte (si présente) indique le revenu. La ligne combine les deux.

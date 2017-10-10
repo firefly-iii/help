@@ -1,1 +1,1 @@
-This is an overview of all transactions that have not been assigned a budget.
+Il s'agit d'un aperçu de toutes les transactions qui ne sont pas affectées à un budget.

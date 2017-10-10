@@ -1,3 +1,3 @@
-A budget can be used to group expenses and keep an eye on your finances. This page allows you to create a new budget.
+Un budget peut être utilisé pour regrouper les dépenses et surveiller vos finances. Cette page vous permet de créer un nouveau budget.
 
-You cannot set the amount (yet), this is something you do in the next step.
+Vous ne pouvez pas (encore) définir le montant, c'est quelque chose que vous allez faire à l'étape suivante.

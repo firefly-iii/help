@@ -1,3 +1,3 @@
-What happens when you edit a piggy bank should be fairly obvious. If you change the amount to below the amount currently saved, the piggy bank will be updated to reflect this.
+Ce qui se passe quand vous éditez une tirelire devrait être assez évident. Si vous modifiez le montant en dessous du montant actuellement enregistré, la tirelire sera mise à jour pour refléter cela.
 
-Let's assume you have a piggy bank with a target amount of 500,- and it contains 300,-. If you change the target amount to 200,-, the amount in the piggy bank will also drop to 200,-.
+Supposons que vous avez une tirelire avec un montant cible de 500, - et il contient 300, -. Si vous changez le montant cible à 200, -, le montant de la tirelire tombera également à 200, -.

@@ -1,5 +1,5 @@
-Almost everybody has regular expenses that come back every month, quarter or year. In Firefly III, you can register such expenses as "bills".
+Presque tout le monde a des dépenses régulières qui reviennent chaque mois, trimestre ou année. Dans Firefly III, vous pouvez enregistrer ces dépenses comme des "factures".
 
-When you create bills, Firefly will report on the expected amount of bills for each period of time. These bills will automatically match themselves to transactions so this amounts goes down as the period of time progresses.
+Lorsque vous créez des factures, Firefly communiquera le montant prévu des factures pour chaque période de temps. Ces factures seront automatiquement rapprochées aux transactions correspondantes, de sorte que ce montant diminue au fur et à mesure que la période avance.
 
-In short, you can create a bill for "rent" or for "insurance" and every month, Firefly III will show you if you paid for it.
+En bref, vous pouvez créer une facture pour «loyer» ou pour «assurance» et chaque mois, Firefly III vous montrera si vous l'avez payé.

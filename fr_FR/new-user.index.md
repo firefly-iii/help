@@ -1,7 +1,7 @@
-Welcome to Firefly III!
+Bienvenue sur Firefly III !
 
-To get started please fill in the required details.
+Pour commencer, veuillez remplir les détails requis.
 
-* Your bank name is required to give the new account a proper name.
-* The balance should be the balance the account has right now. You may also leave this at zero, and correct it later.
-* For your savings account, the same thing applies. The name will be derived from your bank name, but you can change it later.
+* Le nom de votre banque est requis pour donner un nom au nouveau compte.
+* L'équilibre devrait être l'équilibre que le compte a en ce moment. Vous pouvez aussi laisser ceci à zéro, et le corriger plus tard.
+* Pour votre compte d'épargne, c'est la même chose. Le nom sera dérivé de votre nom de banque, mais vous pouvez le modifier ultérieurement.
